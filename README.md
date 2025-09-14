@@ -16,7 +16,8 @@ https://shreyanshshekhar17.github.io/portfolio-website/
 # 📬 Contact Me
 
 Feel free to reach out via the embedded contact form or connect with me on:
-email- iamshreyanshshekhar@gmail.com
-mobile no.- +91 9608110977
-[LinkedIn](https://www.linkedin.com/in/shreyanshshekhar17/)
+- email- iamshreyanshshekhar@gmail.com
+- mobile no.- +91 9608110977
+- [LinkedIn](https://www.linkedin.com/in/shreyanshshekhar17/)
+
 
